@@ -5,7 +5,7 @@
             "title": "Defining the language",
             "icon": "xtext",
 
-            "tools": ["http://127.0.0.1:8080/xtext_tool.json"],
+            "tools": ["http://127.0.0.1:8074/xtext_tool.json"],
 
             "panels": [
                 {
@@ -52,9 +52,9 @@
             "icon": "xtext",
 
             "tools": ["{{ID-panel-turtles}}/editor_tool.json", 
-                      "http://127.0.0.1:8080/emf_tool.json",
-                      "http://127.0.0.1:8080/emfatic_tool.json",
-                      "http://127.0.0.1:8080/tools"],
+                      "http://127.0.0.1:8073/emf_tool.json",
+                      "http://127.0.0.1:8071/emfatic_tool.json",
+                      "http://127.0.0.1:8070/tools"],
 
             "panels": [
                 {
