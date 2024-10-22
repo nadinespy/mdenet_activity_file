@@ -36,8 +36,8 @@
                     "sourceButton": "action-button",
 
                     "parameters": {
-                    "languageName": "uk.ac.kcl.inf.mdd6b.Turtles",
-                    "baseName": "turtles-project",
+                        "languageName": "uk.ac.kcl.inf.mdd6b.turtles.Turtles",
+                        "baseName": "uk.ac.kcl.inf.mdd6b.turtles",
                         "extension": "turtles",
                         "grammar": "panel-xtext"
                     },
